@@ -1,6 +1,6 @@
-p=int(raw-input())
-n=int(raw-input())
-poer=1
+p=int(raw_input())
+n=int(raw_input())
+power=1
 for i in range(n):
   power=power*p
 print power  
